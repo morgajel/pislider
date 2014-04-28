@@ -11,6 +11,7 @@ Grab the latest Raspbian: http://downloads.raspberrypi.org/raspbian_latest and u
 Run through the installer and reboot.
 
 log in, then run
+
     sudo git clone  https://github.com/morgajel/pislider.git
     cd pislider
     bash configure
