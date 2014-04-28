@@ -11,6 +11,6 @@ Grab the latest Raspbian: http://downloads.raspberrypi.org/raspbian_latest and u
 Run through the installer and reboot.
 
 log in, then run
-    sudo apt-get update
-    sudo apt-get install python-pip python-dev
-    sudo pip install littlechef
+    sudo git clone  https://github.com/morgajel/pislider.git
+    cd pislider
+    bash configure
