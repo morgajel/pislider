@@ -1,3 +1,8 @@
  node 'default' {
-      include vim
+      	include vim
+      	include impress
+	include background
+	include lxde
+	include synergy
+
     }
