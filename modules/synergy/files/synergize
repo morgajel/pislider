@@ -1,0 +1,2 @@
+#!/bin/bash
+synergyc -n pi -d INFO -f `echo $SSH_CLIENT|awk '{print $1}'`

@@ -7,4 +7,4 @@
 @xset -dpms
 @xset s noblank
 #@chromium --kiosk
-@libreoffice --norestore --nologo /home/pi/ppt/*
+@libreoffice --nologo --norestore ppt/*

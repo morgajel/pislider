@@ -1,8 +1,10 @@
  node 'default' {
-      	include vim
-      	include impress
 	include background
+      	include impress
 	include lxde
 	include synergy
+	include unclutter
+      	include vim
+      	include x11
 
     }
